@@ -1,0 +1,9 @@
+com/supriya/jpaswapping/config/AbstractConfig.class
+com/supriya/jpaswapping/controller/BookController.class
+com/supriya/jpaswapping/JpaswappingApplication.class
+com/supriya/jpaswapping/entity/Book.class
+com/supriya/jpaswapping/config/AbstractConfig$SourceInfo.class
+com/supriya/jpaswapping/repository/BookRepository.class
+com/supriya/jpaswapping/config/H2Config.class
+com/supriya/jpaswapping/config/RedisConfig.class
+com/supriya/jpaswapping/config/MysqlConfig.class

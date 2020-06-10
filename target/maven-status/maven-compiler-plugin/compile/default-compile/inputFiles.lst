@@ -1,0 +1,8 @@
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/entity/Book.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/config/MysqlConfig.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/repository/BookRepository.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/config/RedisConfig.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/config/AbstractConfig.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/JpaswappingApplication.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/config/H2Config.java
+/usr/src/mymaven/src/main/java/com/supriya/jpaswapping/controller/BookController.java

@@ -1,13 +1,14 @@
-package com.supriya.JPAswapping;
+package com.supriya.jpaswapping;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpAswappingApplicationTests {
+class JpaswappingApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
 }
+

@@ -1,13 +1,13 @@
-package com.supriya.JPAswapping;
+package com.supriya.jpaswapping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpAswappingApplication {
+public class JpaswappingApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JpAswappingApplication.class, args);
+		SpringApplication.run(JpaswappingApplication.class, args);
 	}
 
 }
